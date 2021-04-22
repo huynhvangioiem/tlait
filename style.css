@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+	.container {
+		background:#CFF;
+		font-family:Verdana, Geneva, sans-serif;
+		font-size:16px;
+	}
+	.login_php .login, .login_php .afterLogin, .avartar {
+		text-align:center;
+	}
+	marquee {
+		color:red;
+		background:#CC0;
+		font-weight:bold;
+	}
+	.title {
+		color:#03F;
+		font-weight:bold;
+	}
+	.container .orther_skill, .container .orther_MucTieu, .container .orther_SoThich{
+		border:1px #999999 solid;
+	}
+	.container .orther_skill .title, .container .orther_MucTieu .title, .container .orther_SoThich .title{
+		font-weight:bold;
+		color:#000;
+		background-color:#09F;
+	}
+
